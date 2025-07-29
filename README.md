@@ -1,2 +1,2 @@
-# vdf-material_AutoComplete
-Valve Material File syntax AutoComplete for Notepad++
+# vdf-syntax_AutoComplete
+VDF AutoComplete for Notepad++
