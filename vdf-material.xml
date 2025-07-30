@@ -713,5 +713,35 @@
   		<KeyWord name="watersurfacebottom" />
   		<KeyWord name="worldvertexalpha" />
   		<KeyWord name="envmapsphere" />
+		<KeyWord name="screenspace_general" />
+		<KeyWord name="pixshader" />
+		<KeyWord name="copyalpha" />
+		<KeyWord name="alpha_blend_color_overlay" />
+		<KeyWord name="alpha_blend" />
+		<KeyWord name="linearwrite" />
+		<KeyWord name="linearread_basetexture" />
+		<KeyWord name="linearread_texture1" />
+		<KeyWord name="linearread_texture2" />
+		<KeyWord name="linearread_texture3" />
+		<KeyWord name="texture1" />
+		<KeyWord name="texture2" />
+		<KeyWord name="texture3" />
+		<KeyWord name="fix_fb" />
+		<KeyWord name="flags2c0_x" />
+		<KeyWord name="c0_y" />
+		<KeyWord name="c0_z" />
+		<KeyWord name="c0_w" />
+		<KeyWord name="c1_x" />
+		<KeyWord name="c1_y" />
+		<KeyWord name="c1_z" />
+		<KeyWord name="c1_w" />
+		<KeyWord name="c2_x" />
+		<KeyWord name="c2_y" />
+		<KeyWord name="c2_z" />
+		<KeyWord name="c2_w" />
+		<KeyWord name="c3_x" />
+		<KeyWord name="c3_y" />
+		<KeyWord name="c3_z" />
+		<KeyWord name="c3_w" />
 	  </AutoComplete>
   </NotepadPlus>
