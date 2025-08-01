@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
   <NotepadPlus>
-	  <AutoComplete language="VDF-Material">
+	  <AutoComplete language="VDF-Materials">
   		<KeyWord name="basetimeslightmaptimesdetail" />
   		<KeyWord name="basetimeslightmapwet" />
   		<KeyWord name="basetimesmod2xenvmap" />
